@@ -11,3 +11,5 @@
 - [Provably Secure Generative Linguistic Steganography](https://github.com/Mhzzzzz/ADG-steganography)
 - [Linguistic Steganography Based on Adaptive Probability Distribution](https://github.com/CAU-Tstega/text-steganography)
 
+修改式自然语言信息隐藏论文列表
+
