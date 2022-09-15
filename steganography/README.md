@@ -1,6 +1,6 @@
-生成式自然语言信息隐藏论文列表
-
 > 来自 团队成员 [Fly](https://github.com/Flyvannn) 的整理
+
+生成式自然语言信息隐藏论文列表
 
 - [Generating Steganographic Text with LSTMs](https://github.com/tbfang/steganography-lstm)
 - [RNN-Stega: Linguistic Steganography Based on Recurrent Neural Networks](https://github.com/YangzlTHU/RNN-Stega)
