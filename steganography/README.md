@@ -13,3 +13,6 @@
 
 ## 修改式自然语言信息隐藏论文列表
 
+## 自然语言水印论文列表
+- [Tracing Text Provenance via Context-Aware Lexical Substitution](https://ojs.aaai.org/index.php/AAAI/article/view/21415)
+- [Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding](https://ieeexplore.ieee.org/document/9519400)
