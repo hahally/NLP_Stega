@@ -11,7 +11,10 @@
 - [Provably Secure Generative Linguistic Steganography](https://github.com/Mhzzzzz/ADG-steganography)
 - [Linguistic Steganography Based on Adaptive Probability Distribution](https://github.com/CAU-Tstega/text-steganography)
 
+
 ## 修改式自然语言信息隐藏论文列表
+- [Frustratingly Easy Edit-based Linguistic Steganography with a Masked Language Model](https://github.com/ku-nlp/steganography-with-masked-lm)
+
 
 ## 自然语言水印论文列表
 - [Tracing Text Provenance via Context-Aware Lexical Substitution](https://ojs.aaai.org/index.php/AAAI/article/view/21415)
