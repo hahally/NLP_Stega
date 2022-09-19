@@ -20,7 +20,8 @@
 3. evaluation 评价方法
 
 # 相关期刊会议列表
-|  CCF A类   | 中科院分区  |
+|  期刊  | 中科院分区  |
+|  **CCF A类**   | **中科院分区**  |
 | :----: | :----: |
 | IEEE Trans on Pattern Analysis and Machine Intelligence(TPAMI) | 中科院1区 |
 | IEEE Transactions on Information Forensics and Security(TIFS) | 中科院1区 |
@@ -50,7 +51,8 @@
 | Computers, Materials & Continua | 中科院2区 |
 | IEEE Access | 中科院2区 |
 | IEEE Transactions on Computational Social Systems	| JCR Q2,暂未收录 |
-|  A会   |  DDL  |
+|  **会议**   |  **DDL**  |
+|  **A会**   |  **DDL**  |
 | :----: | :----: |
 | ACL 2023|	2022.11 |
 | AAAI2023|	2023-08-15 |
