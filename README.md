@@ -21,7 +21,7 @@
 
 # 相关期刊会议列表
 ## 期刊
-### A类
+### CCF A类
 - IEEE Trans on Pattern Analysis and Machine Intelligence(TPAMI) | 中科院1区
 - IEEE Transactions on Information Forensics and Security(TIFS) | 中科院1区
 - IEEE Transactions on Dependable and Secure Computing(TDSC) | 中科院2区
@@ -81,3 +81,6 @@
 ### C类
 - NAACL |截稿时间：2023	未知
 - INTERSPEECH |截稿时间：2023	未知
+
+|  A会   |  DDL  |
+| :----: | :----: |
