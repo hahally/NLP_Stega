@@ -18,3 +18,10 @@
 1. steganalysis 隐写分析模型
 2. steganography 隐写论文列表
 3. evaluation 评价方法
+
+# 相关期刊会议列表
+## 期刊
+### A类
+- [IEEE Trans on Pattern Analysis and Machine Intelligence(TPAMI)| 中科院1区]
+
+
