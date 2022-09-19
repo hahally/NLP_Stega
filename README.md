@@ -51,6 +51,7 @@
 | Computers, Materials & Continua | 中科院2区 |
 | IEEE Access | 中科院2区 |
 | IEEE Transactions on Computational Social Systems	| JCR Q2,暂未收录 |
+|     |    |
 |  **会议**   |  **DDL**  |
 |  **A会**   |   |
 | ACL 2023|	2022.11 |
