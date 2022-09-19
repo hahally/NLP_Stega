@@ -26,7 +26,7 @@
 | IEEE Trans on Pattern Analysis and Machine Intelligence(TPAMI) | 中科院1区 |
 | IEEE Transactions on Information Forensics and Security(TIFS) | 中科院1区 |
 | IEEE Transactions on Dependable and Secure Computing(TDSC) | 中科院2区 |
-|  CCF B类   |  中科院分区  |
+**|  CCF B类   |  中科院分区  |**
 | Information Sciences | 中科院1区 |
 | IEEE Transactions on Multimedia | 中科院1区 |
 | IEEE/ACM Transactions on Audio, Speech and Language Processing | 中科院1区 |
