@@ -22,6 +22,6 @@
 # 相关期刊会议列表
 ## 期刊
 ### A类
-- [IEEE Trans on Pattern Analysis and Machine Intelligence(TPAMI)| 中科院1区]
+- IEEE Trans on Pattern Analysis and Machine Intelligence(TPAMI)| 中科院1区
 
 
