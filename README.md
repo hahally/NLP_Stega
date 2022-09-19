@@ -26,5 +26,33 @@
 - IEEE Transactions on Information Forensics and Security(TIFS) | 中科院1区
 - IEEE Transactions on Dependable and Secure Computing(TDSC) | 中科院2区
 
+### B类
+- Information Sciences | 中科院1区
+- IEEE Transactions on Multimedia | 中科院1区
+- IEEE/ACM Transactions on Audio, Speech and Language Processing | 中科院1区
+- IEEE Transactions on Communications | 中科院2区
+- Neural Networks | 中科院2区
+- Computers and Security | 中科院3区
+- Computational Linguistics | 中科院3区
+- ACM Transactions on Privacy and Security | 中科院3区
+
+### C类
+- Signal Processing | 中科院2区
+- IEEE Signal Processing Letters | 中科院2区
+- Neurocomputing | 中科院2区
+- Journal of Information Security and Applications | 中科院3区
+- Speech Communication | 中科院3区
+- Computer Speech & Language | 中科院3区
+- Multimedia Tools and Applications | 中科院4区
+- Security and Communication Networks | 中科院4区
+- The Journal of Supercomputing | 中科院4区
+- IET Information Security | 中科院4区
+- IET Signal Processing | 中科院4区
+
+### None类
+- Computers, Materials & Continua | 中科院2区
+- IEEE Access | 中科院2区
+- IEEE Transactions on Computational Social Systems	| JCR Q2,暂未收录
+
 
  
