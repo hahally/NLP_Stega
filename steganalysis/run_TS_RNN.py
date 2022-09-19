@@ -9,6 +9,9 @@ random.seed(2022)
 np.random.seed(2022)
 tf.random.set_seed(2022)
 
+
+
+
 if __name__ == '__main__':
 
     result = './result.txt'
@@ -52,12 +55,23 @@ if __name__ == '__main__':
     #             num_classes=2,
     #             random_state=2022)
     
-    accuracy, f1_s, precision, recall, cm = infer(test_data,
+    # 推理
+    pre = infer(test_data,
                                             tokens,
+                                            val_mode='inference',
                                             folds=k_folds,
                                             mode=mode,
                                             model_path='./TS_RNN/model_dir',
                                             max_len=32,
                                             num_classes=2)
     
+    # 测试评估
+    accuracy, f1_s, precision, recall, cm = infer(test_data,
+                                            tokens,
+                                            val_mode='test',
+                                            folds=k_folds,
+                                            mode=mode,
+                                            model_path='./TS_RNN/model_dir',
+                                            max_len=32,
+                                            num_classes=2)
     f.write(f'accuracy:{accuracy}, f1_s:{f1_s}, precision:{precision}, recall:{recall}')
