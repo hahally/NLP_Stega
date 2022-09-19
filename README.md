@@ -26,7 +26,7 @@
 | IEEE Trans on Pattern Analysis and Machine Intelligence(TPAMI) | 中科院1区 |
 | IEEE Transactions on Information Forensics and Security(TIFS) | 中科院1区 |
 | IEEE Transactions on Dependable and Secure Computing(TDSC) | 中科院2区 |
-|  **CCF B类   |  中科院分区**  |
+|  **CCF B类**   |  **中科院分区**  |
 | Information Sciences | 中科院1区 |
 | IEEE Transactions on Multimedia | 中科院1区 |
 | IEEE/ACM Transactions on Audio, Speech and Language Processing | 中科院1区 |
@@ -35,7 +35,7 @@
 | Computers and Security | 中科院3区 |
 | Computational Linguistics | 中科院3区 |
 | ACM Transactions on Privacy and Security | 中科院3区 |
-|  CCF C类   |  中科院分区  |
+|  **CCF C类**   |  **中科院分区**  |
 | Signal Processing | 中科院2区 |
 | IEEE Signal Processing Letters | 中科院2区 |
 | Neurocomputing | 中科院2区 |
@@ -47,7 +47,7 @@
 | The Journal of Supercomputing | 中科院4区 |
 | IET Information Security | 中科院4区 |
 | IET Signal Processing | 中科院4区 |
-|  CCF None类   |  中科院分区  |
+|  **CCF None类**   |  **中科院分区**  |
 | Computers, Materials & Continua | 中科院2区 |
 | IEEE Access | 中科院2区 |
 | IEEE Transactions on Computational Social Systems	| JCR Q2,暂未收录 |
@@ -69,11 +69,11 @@
 | ICCV 2023|	2023.3.8 |
 | ECCV 2023|	未知 |
 |ICLR* 2023	| 2022.09.21	|
-|  B会   |  DDL  |
+|  **B会**   |  **DDL**  |
 |  EMNLP 2023 |	未知 |
 |  COLING 2023 |	未知 |
 |  ICASSP 2023	| 2022.10.19 |
 |  ICMR 2023 |	未知 |
-|  C会   |  DDL  |
+|  **C会**   |  **DDL**  |
 |  NAACL 2023 |	未知 |
 |  INTERSPEECH 2023 |	未知 |
