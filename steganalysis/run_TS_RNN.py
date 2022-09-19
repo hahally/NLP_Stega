@@ -64,6 +64,7 @@ if __name__ == '__main__':
                                             model_path='./TS_RNN/model_dir',
                                             max_len=32,
                                             num_classes=2)
+    print('预测结果：',pre)
     
     # 测试评估
     accuracy, f1_s, precision, recall, cm = infer(test_data,
