@@ -21,8 +21,8 @@
 
 # 相关期刊会议列表
 |  期刊  | 中科院分区  |
-|  **CCF A类**   | **中科院分区**  |
 | :----: | :----: |
+|  **CCF A类**   | **中科院分区**  |
 | IEEE Trans on Pattern Analysis and Machine Intelligence(TPAMI) | 中科院1区 |
 | IEEE Transactions on Information Forensics and Security(TIFS) | 中科院1区 |
 | IEEE Transactions on Dependable and Secure Computing(TDSC) | 中科院2区 |
@@ -53,7 +53,6 @@
 | IEEE Transactions on Computational Social Systems	| JCR Q2,暂未收录 |
 |  **会议**   |  **DDL**  |
 |  **A会**   |  **DDL**  |
-| :----: | :----: |
 | ACL 2023|	2022.11 |
 | AAAI2023|	2023-08-15 |
 | NIPS2023|	2023.04.20 |
