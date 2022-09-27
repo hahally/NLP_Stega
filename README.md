@@ -25,11 +25,13 @@
 |  **CCF A类**   |   |
 | IEEE Trans on Pattern Analysis and Machine Intelligence(TPAMI) | 中科院1区 |
 | IEEE Transactions on Information Forensics and Security(TIFS) | 中科院1区 |
+| IEEE Transactions on Image Processing(TIP) | 中科院1区 |
 | IEEE Transactions on Dependable and Secure Computing(TDSC) | 中科院2区 |
 |  **CCF B类**   |    |
 | Information Sciences | 中科院1区 |
 | IEEE Transactions on Multimedia | 中科院1区 |
 | IEEE/ACM Transactions on Audio, Speech and Language Processing | 中科院1区 |
+| IEEE Transactions on Circuits and Systems for Video Technology | 中科院1区 |
 | IEEE Transactions on Communications | 中科院2区 |
 | Neural Networks | 中科院2区 | |
 | Computers and Security | 中科院3区 |
