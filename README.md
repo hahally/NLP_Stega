@@ -50,8 +50,8 @@
 | IET Information Security | 中科院4区 |
 | IET Signal Processing | 中科院4区 |
 |  **CCF None类**   |    |
-| Computers, Materials & Continua | 中科院2区 |
-| IEEE Access | 中科院2区 |
+| Computers, Materials & Continua | 中科院3区 |
+| IEEE Access | 中科院3区 |
 | IEEE Transactions on Computational Social Systems	| JCR Q2,暂未收录 |
 |      |      |
 |  **会议**   |  **DDL**  |
