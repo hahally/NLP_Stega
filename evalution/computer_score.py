@@ -75,8 +75,8 @@ class Eval:
         return avg_rs_1, avg_rs_2, avg_rs_L
     
     def bertscore(self, reference, candidate):
-        reference = [' '.join(ref[0][:-1])+ref[0][-1] for ref in reference]
-        candidate = [' '.join(cand[:-1])+cand[-1] for cand in candidate]
+        reference = [[' '.join(ref)] for ref in reference]
+        candidate = [' '.join(cand) for cand in candidate]
         model_type='bert-base-uncased'
         (P, R, F), hashname = score(candidate, reference, model_type=model_type, lang="en", return_hash=True, rescale_with_baseline=True)
         
@@ -101,7 +101,7 @@ class Eval:
         
         bertScore = False
         if flag:
-            bertScore = self.bertscore(self.reference, candidate)
+            bertScore = self.bertscore(self.source, candidate)
         result = {}
         result['self-BLEU'] = self_bleu
         result['BLEU'] = bleu
