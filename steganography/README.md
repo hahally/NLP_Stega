@@ -24,5 +24,5 @@
 
 
 ## 自然语言可逆隐写（水印）
-- [Reversible Linguistic Steganography With Bayesian Masked Language Modeling](https://ieeexplore.ieee.org/abstract/document/9753668)
-- [General Framework for Reversible Data Hiding in Texts Based on Masked Language Modeling](https://arxiv.org/abs/2206.10112)
+- [Reversible Linguistic Steganography With Bayesian Masked Language Modeling| 修改式](https://ieeexplore.ieee.org/abstract/document/9753668)
+- [General Framework for Reversible Data Hiding in Texts Based on Masked Language Modeling| 生成式](https://arxiv.org/abs/2206.10112)
