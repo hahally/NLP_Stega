@@ -14,6 +14,7 @@
 
 ## 修改式自然语言隐写论文列表
 - [Frustratingly Easy Edit-based Linguistic Steganography with a Masked Language Model](https://github.com/ku-nlp/steganography-with-masked-lm)
+- [Autoregressive Linguistic Steganography Based on BERT and Consistency Coding](https://www.hindawi.com/journals/scn/2022/9092785/)
 
 
 ## 自然语言水印论文列表
