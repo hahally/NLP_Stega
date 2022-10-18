@@ -10,6 +10,7 @@
 - [VAE-Stega: Linguistic Steganography Based on Variational Auto-Encoder](https://github.com/YangzlTHU/VAE-Stega)
 - [Provably Secure Generative Linguistic Steganography](https://github.com/Mhzzzzz/ADG-steganography)
 - [Linguistic Steganography Based on Adaptive Probability Distribution](https://github.com/CAU-Tstega/text-steganography)
+- [ALiSa: Acrostic Linguistic Steganography Based on BERT and Gibbs Sampling](https://github.com/clearloveclearlove/Alisa)
 
 
 ## 修改式自然语言隐写论文列表
@@ -20,3 +21,6 @@
 ## 自然语言水印论文列表
 - [Tracing Text Provenance via Context-Aware Lexical Substitution](https://ojs.aaai.org/index.php/AAAI/article/view/21415)
 - [Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding](https://github.com/S-Abdelnabi/awt)
+
+
+## 自然语言可逆隐写（水印）
