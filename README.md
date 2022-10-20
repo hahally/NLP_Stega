@@ -31,7 +31,7 @@
 | Information Sciences | 中科院1区 |
 | IEEE Transactions on Multimedia | 中科院1区 |
 | IEEE/ACM Transactions on Audio, Speech and Language Processing | 中科院1区 |
-| IEEE Transactions on Circuits and Systems for Video Technology | 中科院1区 |
+| IEEE Transactions on Circuits and Systems for Video Technology(TCSVT) | 中科院1区 |
 | IEEE Transactions on Communications | 中科院2区 |
 | Neural Networks | 中科院2区 | |
 | Computers and Security | 中科院3区 |
@@ -39,7 +39,7 @@
 | ACM Transactions on Privacy and Security | 中科院3区 |
 |  **CCF C类**   |    |
 | Signal Processing | 中科院2区 |
-| IEEE Signal Processing Letters | 中科院2区 |
+| IEEE Signal Processing Letters(SPL) | 中科院2区 |
 | Neurocomputing | 中科院2区 |
 | Journal of Information Security and Applications | 中科院3区 |
 | Speech Communication | 中科院3区 |
