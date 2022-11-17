@@ -5,7 +5,7 @@ def  ADG(voc_p, u=None):
     v = [x[0] for x in sorted_dict]
     p = [x[1] for x in sorted_dict]
     
-    p_max = p[1]
+    p_max = p[0]
     first_token = v[0]
     if not u:
         u = 2**(math.floor(-math.log2(p_max)))
