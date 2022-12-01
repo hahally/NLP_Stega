@@ -23,7 +23,7 @@ def infer(test,
     
     sentences = test.sentence.tolist()
     x_test = tokens.texts_to_sequences(sentences)
-    x_test = tf.keras.preprocessing.sequence.pad_sequences(x_test, maxlen=max_len)
+    x_test = tf.keras.preprocessing.sequence.pad_sequences(x_test, maxlen=max_len,padding='post',truncating='post')
     y_test = test.label.to_numpy()
     
     predictions = np.zeros([len(test), num_classes])
