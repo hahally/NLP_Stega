@@ -27,7 +27,7 @@ class LScnn(tf.keras.Model):
         self.kernel_sizes = kernel_sizes
         self.kernel_num = kernel_num
 
-        self.w2v_emb = w2v_emb#tf.keras.layers.Embedding(self.vocab_size, self.embed_size, weights=[w2v_emb], trainable=False)
+        self.w2v_emb = tf.keras.layers.Embedding(self.vocab_size, self.embed_size, weights=[w2v_emb], trainable=False)
         
         self.init_conv = tf.random_normal_initializer(mean=0.0, stddev=0.1, seed=2021)
         self.init_emb = tf.random_uniform_initializer(minval=-1, maxval=1, seed=2021)
