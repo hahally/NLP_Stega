@@ -6,4 +6,6 @@
 
 - [Convolutional Neural Network Based Text Steganalysis](https://ieeexplore.ieee.org/document/8625512)
 
-- 其他有源码的文本隐写分析论文(https://github.com/yjs1224/TextSteganalysis)
+- 其他有源码的文本隐写分析论文
+> (https://github.com/yjs1224/TextSteganalysis)
+(https://github.com/CAU-Tstega/Text-steganalysis)
