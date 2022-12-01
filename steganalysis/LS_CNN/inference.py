@@ -20,7 +20,7 @@ def infer(test,
           num_classes=2):
     
     word2indx = tokens.word_index
-    vocab_size = len(word2indx)
+    vocab_size = len(word2indx) + 1
     
     sentences = test.sentence.tolist()
     x_test = tokens.texts_to_sequences(sentences)
