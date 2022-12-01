@@ -49,7 +49,7 @@ def train_model(train,
     vocab_size = len(word2indx) + 1
 
     x_train = tokens.texts_to_sequences(train.sentence.tolist())
-    x_train = tf.keras.preprocessing.sequence.pad_sequences(x_train, maxlen=max_len)
+    x_train = tf.keras.preprocessing.sequence.pad_sequences(x_train, maxlen=max_len,padding='post',truncating='post')
     y_train = train.label.to_numpy()
 
     # x_test = tokens.texts_to_sequences(test.sentence.tolist())
