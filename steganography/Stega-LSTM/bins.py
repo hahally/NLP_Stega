@@ -82,6 +82,7 @@ def 统计句子开头单词(files):
     first_words = sorted(first_words.items(),key=lambda elem: elem[1], reverse=True)    
     return [w_c[0] for w_c in first_words[:50]]
 
+
 if __name__ == '__main__':
     setup_seed(2023)
     word2idx, idx2word = load_vocab('./data/quora/vocab.pkl')
