@@ -14,9 +14,13 @@ test model
 
 > To do list
 
-- add Bins coding
+- [x] add Bins coding 
 - add Sabins coding
-- add Huffman coding
+- [x] add Huffman coding
+- [x] add FLC
 - add AC coding
 - add ADG coding
 - ...
+
+备注：
+> 目前只是代码层面的实现，具体实验结果还未验证
