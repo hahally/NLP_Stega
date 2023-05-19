@@ -26,7 +26,7 @@
 ### 自然语言水印论文列表
 - [Abdelnabi, Sahar and Mario Fritz. “Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding.” S&P2021: 121-140.](https://github.com/S-Abdelnabi/awt)
 - [Yang, Xi et al. “Tracing Text Provenance via Context-Aware Lexical Substitution.” AAAI2022.](https://ojs.aaai.org/index.php/AAAI/article/view/21415)
-- [Qiang, Jipeng et al. “Natural language watermarking via paraphraser-based lexical substitution.” AI2023: 103859.]([https://www.sciencedirect.com/science/article/abs/pii/S000437022300005X])
+- [Qiang, Jipeng et al. “Natural language watermarking via paraphraser-based lexical substitution.” AI2023: 103859.](https://www.sciencedirect.com/science/article/abs/pii/S000437022300005X)
 - [Yoo, K., Ahn, W., Jang, J., & Kwak, N. "Robust Natural Language Watermarking through Invariant Features." ACL2023](https://www.semanticscholar.org/paper/Robust-Natural-Language-Watermarking-through-Yoo-Ahn/f3498c196e4a03c01df3e0147e99376f72dfc4ab)
 
 
