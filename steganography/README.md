@@ -21,13 +21,13 @@
 - [Ueoka, Honai et al. “Frustratingly Easy Edit-based Linguistic Steganography with a Masked Language Model.” NAACL2021.](https://github.com/ku-nlp/steganography-with-masked-lm)
 - [Zheng, Xiaoyan and Hanzhou Wu. “Autoregressive Linguistic Steganography Based on BERT and Consistency Coding.” Security and Communicaton Networks 2022.](https://www.hindawi.com/journals/scn/2022/9092785/)
 - [Yang, Tianyu et al. “Semantic-Preserving Linguistic Steganography by Pivot Translation and Semantic-Aware Bins Coding.” TDSC2022.](https://ieeexplore.ieee.org/abstract/document/10049662)
-- [Yoo, K., Ahn, W., Jang, J., & Kwak, N. "Robust Natural Language Watermarking through Invariant Features." ACL2023](https://ieeexplore.ieee.org/abstract/document/10049662)
 
 
 ### 自然语言水印论文列表
 - [Abdelnabi, Sahar and Mario Fritz. “Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding.” S&P2021: 121-140.](https://github.com/S-Abdelnabi/awt)
 - [Yang, Xi et al. “Tracing Text Provenance via Context-Aware Lexical Substitution.” AAAI2022.](https://ojs.aaai.org/index.php/AAAI/article/view/21415)
-- [Qiang, Jipeng et al. “Natural language watermarking via paraphraser-based lexical substitution.” AI2023: 103859.]([https://www.sciencedirect.com/science/article/abs/pii/S000437022300005X](https://www.semanticscholar.org/paper/Robust-Natural-Language-Watermarking-through-Yoo-Ahn/f3498c196e4a03c01df3e0147e99376f72dfc4ab))
+- [Qiang, Jipeng et al. “Natural language watermarking via paraphraser-based lexical substitution.” AI2023: 103859.]([https://www.sciencedirect.com/science/article/abs/pii/S000437022300005X])
+- [Yoo, K., Ahn, W., Jang, J., & Kwak, N. "Robust Natural Language Watermarking through Invariant Features." ACL2023](https://www.semanticscholar.org/paper/Robust-Natural-Language-Watermarking-through-Yoo-Ahn/f3498c196e4a03c01df3e0147e99376f72dfc4ab)
 
 
 
