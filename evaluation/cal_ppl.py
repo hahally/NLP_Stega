@@ -4,9 +4,26 @@ import torch.nn as nn
 from tqdm import tqdm
 from transformers import BertTokenizer
 from transformers import BertForMaskedLM
+from transformers import GPT2LMHeadModel, GPT2TokenizerFast
+
+@torch.no_grad()
+def cal_ppl(self, file, model_file):
+    with open(file, 'r') as f:
+        sents = [line.strip('\n').strip().lower() for line in f.readlines()]
+    model = GPT2LMHeadModel.from_pretrained(model_file).cuda()
+    tokenizer = GPT2TokenizerFast.from_pretrained(model_file)
+    model.eval()
+    ppl = torch.FloatTensor(len(sents)).cuda()
+    max_length = model.config.n_positions
+    for index, sent in tqdm(enumerate(sents)):
+        encodings = tokenizer(sent, return_tensors='pt')
+        input_ids = encodings.input_ids[:, :max_length].cuda()
+        target_ids = input_ids.clone()
+        outputs = model(input_ids, labels=target_ids)
+        ppl[index] = torch.exp(outputs[0]).tolist()
+    print('perplexity: %f' % ppl.mean())
 
 # 在用transformers中的BertForMaskedLM来预测被mask掉的单词时一定要加特殊字符[ C L S ] 和 [ S E P ] [CLS]和[SEP][CLS]和[SEP]。不然效果很差很差！！！
-
 def cpt_ppl(sentence, model, tokenizer):
     DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model.to(DEVICE)
