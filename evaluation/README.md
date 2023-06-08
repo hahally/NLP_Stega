@@ -9,3 +9,4 @@
 - BERTScore
 - PPL 困惑度
 - [UNION](https://github.com/thu-coai/UNION)
+- [MAUVE](https://github.com/krishnap25/mauve)
