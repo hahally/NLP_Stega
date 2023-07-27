@@ -1,2 +1,2 @@
-# Text Generation
-## 相关论文列表
+# Text Generation相关论文列表
+
