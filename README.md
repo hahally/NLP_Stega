@@ -20,6 +20,9 @@
 3. evaluation 评价方法
 
 ## 相关期刊会议列表
+
+https://github.com/ccfddl/ccf-deadlines
+
 |  期刊  | 中科院分区  |
 | :----: | :----: |
 |  **CCF A类**   |   |
