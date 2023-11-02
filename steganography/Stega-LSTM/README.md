@@ -15,7 +15,7 @@ test model
 > To do list
 
 - [x] add Bins coding 
-- add Sabins coding
+- [x] add Sabins coding
 - [x] add Huffman coding
 - [x] add FLC coding
 - add AC coding
