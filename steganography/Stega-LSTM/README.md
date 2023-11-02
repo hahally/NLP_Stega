@@ -17,7 +17,7 @@ test model
 - [x] add Bins coding 
 - add Sabins coding
 - [x] add Huffman coding
-- [x] add FLC
+- [x] add FLC coding
 - add AC coding
 - [x] add ADG coding
 - ...
