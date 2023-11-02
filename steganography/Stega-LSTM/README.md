@@ -19,7 +19,7 @@ test model
 - [x] add Huffman coding
 - [x] add FLC
 - add AC coding
-- add ADG coding
+- [x] add ADG coding
 - ...
 
 备注：
