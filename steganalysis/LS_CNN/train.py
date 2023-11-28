@@ -48,7 +48,7 @@ def train_model(train,
     
     
     x_test = tokens.texts_to_sequences(test.sentence.tolist())
-    x_test = tf.keras.preprocessing.sequence.pad_sequences(x_test, maxlen=max_len)
+    x_test = tf.keras.preprocessing.sequence.pad_sequences(x_test, maxlen=max_len,,padding='post',truncating='post')
     y_test = test.label.to_numpy()
     
     folds = StratifiedKFold(n_splits=k_folds, shuffle=True, random_state=random_state)
